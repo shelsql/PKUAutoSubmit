@@ -1,5 +1,5 @@
 # PKUAutoSubmit (modified)
-This is nice
+
 **我做的改动**
 
 将Bruuuuuuce的备案历史截图功能添加在了YOUSIKI的程序中，并自己增加了将截图发送至个人邮箱的功能，即每天上午9:50和下午4:50会自动执行程序并发送报备截图至指定邮箱，目前稳定率惊人地高。<br>
