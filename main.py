@@ -287,13 +287,13 @@ def run(driver, username, password, campus, reason, destination, track,
     screen_capture(driver)
     print('=================================')
      
-    ret = mail()
-    if ret:
-        print("邮件发送成功")
-    else:
-        print("邮件发送失败")
+    #ret = mail()
+    #if ret:
+        #print("邮件发送成功")
+    #else:
+        #print("邮件发送失败")
         
-    print('可以愉快的玩耍啦！')
+    #print('可以愉快的玩耍啦！')
 
 
 if __name__ == '__main__':
